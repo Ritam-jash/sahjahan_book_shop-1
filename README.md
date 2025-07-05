@@ -191,7 +191,13 @@ The application will be available at `http://localhost:5173/` (or a different po
 
 
 ## License
-This project is open-source and available under the **MIT License**.
+
+This project is **not open-source**.
+
+All rights are reserved by the author. You may **view or use the code for personal or educational purposes**, but **modification, redistribution, or commercial use is strictly prohibited** without written permission.
+
+See the [LICENSE](./LICENSE) file for full details.
+
 
 ## Contact
 For any queries or contributions, feel free to reach out:
